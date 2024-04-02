@@ -2,8 +2,8 @@
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 
-Swetha A
-212223220114
+Sri Harish B
+212223220110
 BTech IT
 
 ## Algorithm
